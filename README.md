@@ -59,4 +59,4 @@ Las características como baños, parqueaderos y número de pisos aportan al val
 
 Los análisis de agrupación muestran que viviendas con más baños y parqueaderos presentan incrementos constantes en el precio, sugiriendo criterios claros de valoración.
 
-
+La data evidencia que invertir en viviendas medianas puede ser más eficiente en retorno/costo que comprar propiedades demasiado grandes o lujosas.
