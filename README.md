@@ -8,7 +8,8 @@ Este proyecto consiste en un análisis exploratorio y estadístico del dataset *
 ---
 
 ## Integrantes del equipo
-- David Santiago Hernández Arandia  
+- David Santiago Hernández Arandia
+- Wendy Dayana Otalvaro Velasquez 
 
 ---
 
