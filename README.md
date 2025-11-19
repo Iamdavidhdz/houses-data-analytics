@@ -57,6 +57,6 @@ El mercado presenta precios concentrados en rangos medios, con pocas viviendas e
 
 Las características como baños, parqueaderos y número de pisos aportan al valor, pero su influencia es menor comparada con el área.
 
-
+Los análisis de agrupación muestran que viviendas con más baños y parqueaderos presentan incrementos constantes en el precio, sugiriendo criterios claros de valoración.
 
 
