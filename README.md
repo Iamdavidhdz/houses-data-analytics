@@ -53,10 +53,4 @@ Conclusiones finales:
 
 El área es la variable con mayor relación con el precio, mostrando que viviendas más grandes tienden a ser significativamente más costosas.
 
-El mercado presenta precios concentrados en rangos medios, con pocas viviendas extremadamente costosas después del winsorizing.
 
-Las características como baños, parqueaderos y número de pisos aportan al valor, pero su influencia es menor comparada con el área.
-
-Los análisis de agrupación muestran que viviendas con más baños y parqueaderos presentan incrementos constantes en el precio, sugiriendo criterios claros de valoración.
-
-La data evidencia que invertir en viviendas medianas puede ser más eficiente en retorno/costo que comprar propiedades demasiado grandes o lujosas.
