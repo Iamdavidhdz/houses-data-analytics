@@ -52,5 +52,11 @@ El archivo **Housing.csv** contiene información sobre viviendas con las siguien
 Conclusiones finales:
 
 El área es la variable con mayor relación con el precio, mostrando que viviendas más grandes tienden a ser significativamente más costosas.
+
 El mercado presenta precios concentrados en rangos medios, con pocas viviendas extremadamente costosas después del winsorizing.
+
+Las características como baños, parqueaderos y número de pisos aportan al valor, pero su influencia es menor comparada con el área.
+
+
+
 
